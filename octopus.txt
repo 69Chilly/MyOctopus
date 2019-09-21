@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <title>my octopus</title>
+      <style>
+        
+      </style>
+   </head>
+   <body>
+     <h1 style="text-align: center;">Осьминожка навыков Белова Андрея</h1>
+     <p style="text-align: center;"><img src="octopus.png"></p>
+   </body>
+</html>
